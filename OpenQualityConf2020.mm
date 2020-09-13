@@ -1180,7 +1180,7 @@
 </node>
 </node>
 <node TEXT="Case Study: This Talk" ID="ID_1016590195" CREATED="1600003171709" MODIFIED="1600003178333">
-<node TEXT="Tooling" ID="ID_484640061" CREATED="1600003189919" MODIFIED="1600004561835"><richcontent TYPE="NOTE">
+<node TEXT="Tooling" ID="ID_484640061" CREATED="1600003189919" MODIFIED="1600005013757"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1224,6 +1224,42 @@
       - [Pandoc](https://pandoc.org/) - to create handouts from Markdown
     </p>
     <p>
+      - [HuGo](https://gohugo.io/) EvilTester.com is written in HuGo [Talk Page](https://www.eviltester.com/conference/openquality2020_conference/)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Free SAAS and Hosting
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [Netlify](https://www.netlify.com/) - EvilTester.com is hosted on Netlify, with source on Github
+    </p>
+    <p>
+      - SlideShare to host the final pdf of the talk
+    </p>
+    <p>
+      - SpeakerDeck to host the pdf (allows updating new versions)
+    </p>
+    <p>
+      - Github - to view the markdown on site
+    </p>
+    <p>
+      - GitPages example?
+    </p>
+    <p>
+      
+    </p>
+    <p>
       
     </p>
     <p>
@@ -1247,6 +1283,18 @@
     <p>
       
     </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="The process" ID="ID_1226253890" CREATED="1600004877379" MODIFIED="1600005070374"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       ---
     </p>
@@ -1254,22 +1302,19 @@
       
     </p>
     <p>
-      ## Free SAAS and Hosting
+      ## Creating an Open Source Talk Process
     </p>
     <p>
       
     </p>
     <p>
-      - SlideShare to host the final pdf of the talk
+      - Talk and material initially stored locally on HD
     </p>
     <p>
-      - SpeakerDeck to host the pdf (allows updating new versions)
+      - Talk planned and built in FreePlane (.mm files are xml so easy to add to Git)
     </p>
     <p>
-      - Github - to view the markdown on site
-    </p>
-    <p>
-      - GitPages example?
+      - Private repo create to store material
     </p>
   </body>
 </html>
