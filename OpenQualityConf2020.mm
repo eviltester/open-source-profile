@@ -146,7 +146,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="blurb" ID="ID_927971608" CREATED="1599906611760" MODIFIED="1599906981889"><richcontent TYPE="NOTE">
+<node TEXT="blurb" ID="ID_927971608" CREATED="1599906611760" MODIFIED="1600527134561"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -196,7 +196,7 @@
       
     </p>
     <p>
-      ## Your Open Source Portfolio and Portfolio
+      ## Your Open Source Profile and Portfolio
     </p>
     <p>
       
@@ -300,18 +300,66 @@
     <p>
       The talk will show that anyone can start open sourcing, building their experience with the tooling as they demonstrate and build their expertise, with the material graduating to more 'advanced' and 'traditional' usage as the talk progressed.
     </p>
-    <p>
-      
-    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
 <node TEXT="slides" POSITION="right" ID="ID_1673688204" CREATED="1599906624789" MODIFIED="1600002275335">
 <edge COLOR="#0000ff"/>
 <node TEXT="Introduction" ID="ID_777187735" CREATED="1599906652936" MODIFIED="1599906657037">
-<node TEXT="Intro Slide" ID="ID_15817857" CREATED="1599906688262" MODIFIED="1599906691976"/>
+<node TEXT="Intro Slide" ID="ID_15817857" CREATED="1599906688262" MODIFIED="1600527122786"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      footer: @EvilTester
+    </p>
+    <p>
+      slidenumbers: true
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Your Open Source Profile
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Open Quality Conference 2020
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Alan Richardson
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [@EvilTester](https://twitter.com/eviltester)
+    </p>
+    <p>
+      - [EvilTester.com](https://eviltester.com)
+    </p>
+    <p>
+      - [compendiumdev.co.uk](https://compendiumdev.co.uk)
+    </p>
+    <p>
+      - [digitalonlinetactics.com](https://talotics.com)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="What we will cover" ID="ID_554513684" CREATED="1600512831804" MODIFIED="1600512903729"><richcontent TYPE="NOTE">
 
@@ -1032,7 +1080,7 @@
 </html>
 
 </richcontent>
-<node TEXT="motivations" FOLDED="true" ID="ID_163437674" CREATED="1599923358823" MODIFIED="1600508209554"><richcontent TYPE="NOTE">
+<node TEXT="motivations" ID="ID_163437674" CREATED="1599923358823" MODIFIED="1600508209554"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1571,7 +1619,7 @@
 </richcontent>
 </node>
 <node TEXT="Twitter" ID="ID_1946610180" CREATED="1600510335288" MODIFIED="1600510345100">
-<node TEXT="Twitter" ID="ID_715716509" CREATED="1600513683468" MODIFIED="1600524482247"><richcontent TYPE="NOTE">
+<node TEXT="Twitter" ID="ID_715716509" CREATED="1600513683468" MODIFIED="1600527423671"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1591,7 +1639,7 @@
       
     </p>
     <p>
-      ![](/images/twitter-profile.png)
+      ![](images/twitter-profile.png)
     </p>
     <p>
       
@@ -1697,7 +1745,7 @@
 
 </richcontent>
 </node>
-<node TEXT="Chatterscan" ID="ID_1202660505" CREATED="1600514587915" MODIFIED="1600516193457"><richcontent TYPE="NOTE">
+<node TEXT="Chatterscan" ID="ID_1202660505" CREATED="1600514587915" MODIFIED="1600527427812"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1735,7 +1783,7 @@
       
     </p>
     <p>
-      ![](/images/tooling/chatterscan-com.png)
+      ![](images/tooling/chatterscan-com.png)
     </p>
   </body>
 </html>
@@ -1744,7 +1792,7 @@
 </node>
 </node>
 <node TEXT="LinkedIn" ID="ID_961753833" CREATED="1600515089192" MODIFIED="1600515094343">
-<node TEXT="Profile" ID="ID_1917273588" CREATED="1600517041327" MODIFIED="1600525271832"><richcontent TYPE="NOTE">
+<node TEXT="Profile" ID="ID_1917273588" CREATED="1600517041327" MODIFIED="1600527436562"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1764,7 +1812,7 @@
       
     </p>
     <p>
-      ![](/images/linkedin-profile.png)
+      ![](images/linkedin-profile.png)
     </p>
     <p>
       
@@ -1812,7 +1860,7 @@
       
     </p>
     <p>
-      ![](/images/linkedin-accomplishments.png)
+      ![](images/linkedin-accomplishments.png)
     </p>
     <p>
       
@@ -1831,7 +1879,7 @@
 
 </richcontent>
 </node>
-<node TEXT="Posts" ID="ID_690405974" CREATED="1600516563327" MODIFIED="1600525371121"><richcontent TYPE="NOTE">
+<node TEXT="Posts" ID="ID_690405974" CREATED="1600516563327" MODIFIED="1600527499727"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1908,7 +1956,7 @@
       
     </p>
     <p>
-      ![](/images/tooling/linkedin-post.png)
+      ![](images/tooling/linkedin-post.png)
     </p>
     <p>
       
@@ -1981,7 +2029,7 @@
 
 </richcontent>
 </node>
-<node TEXT="Articles" ID="ID_1628282808" CREATED="1600517045127" MODIFIED="1600525921790"><richcontent TYPE="NOTE">
+<node TEXT="Articles" ID="ID_1628282808" CREATED="1600517045127" MODIFIED="1600527441712"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -2001,7 +2049,7 @@
       
     </p>
     <p>
-      ![](/images/linkedin-articles.png)
+      ![](images/linkedin-articles.png)
     </p>
     <p>
       
@@ -2303,7 +2351,7 @@
 
 </richcontent>
 </node>
-<node TEXT="Images" ID="ID_249320247" CREATED="1600513971302" MODIFIED="1600514453774"><richcontent TYPE="NOTE">
+<node TEXT="Images" ID="ID_249320247" CREATED="1600513971302" MODIFIED="1600527509898"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -2335,7 +2383,7 @@
       
     </p>
     <p>
-      ![](/images/tooling/getstencil.png)
+      ![](images/tooling/getstencil.png)
     </p>
   </body>
 </html>
@@ -3490,13 +3538,19 @@
 
 </richcontent>
 </node>
-<node TEXT="we can all open source" ID="ID_584895190" CREATED="1600513483436" MODIFIED="1600513510898"><richcontent TYPE="NOTE">
+<node TEXT="we can all open source" ID="ID_584895190" CREATED="1600513483436" MODIFIED="1600527206109"><richcontent TYPE="NOTE">
 
 <html>
   <head>
     
   </head>
   <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
     <p>
       ## We can all Open Source
     </p>
