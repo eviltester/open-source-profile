@@ -312,7 +312,116 @@
 <edge COLOR="#0000ff"/>
 <node TEXT="Introduction" ID="ID_777187735" CREATED="1599906652936" MODIFIED="1599906657037">
 <node TEXT="Intro Slide" ID="ID_15817857" CREATED="1599906688262" MODIFIED="1599906691976"/>
-<node TEXT="What is Open Source?" ID="ID_1393652740" CREATED="1599906997682" MODIFIED="1599907315508"><richcontent TYPE="NOTE">
+</node>
+<node TEXT="What we will cover" ID="ID_554513684" CREATED="1600512831804" MODIFIED="1600512903729"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # What we will cover
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="everyone can open source" ID="ID_1203319008" CREATED="1600512849895" MODIFIED="1600512989470"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Everyone Can Open Source
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - My relationship with Open Source
+    </p>
+    <p>
+      - Theory of Open Source
+    </p>
+    <p>
+      - Psychology and Attitude to Open Source
+    </p>
+    <p>
+      - Approaches and Tooling
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="my relationship with opensource" ID="ID_350204194" CREATED="1600512837680" MODIFIED="1600512849032"/>
+<node TEXT="theory of open source" ID="ID_1653415896" CREATED="1600512868508" MODIFIED="1600512874044"/>
+<node TEXT="attitude" ID="ID_1993960630" CREATED="1600512874498" MODIFIED="1600512878171"/>
+<node TEXT="approaches" ID="ID_1789246893" CREATED="1600512878897" MODIFIED="1600512880533"/>
+<node TEXT="tooling" ID="ID_435352480" CREATED="1600512880896" MODIFIED="1600512882245"/>
+</node>
+</node>
+<node TEXT="reframe and explore&#xa;open source" ID="ID_1642681932" CREATED="1600508661666" MODIFIED="1600508687618">
+<node TEXT="what is this?" ID="ID_344521311" CREATED="1600273278023" MODIFIED="1600518244576"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## What is This?
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - This is partly about marketing
+    </p>
+    <p>
+      &#160;&#160;&#160;- Because you have to get people's attention, so they look at what you are sharing.
+    </p>
+    <p>
+      &#160;&#160;&#160;- Discoverability is vital.
+    </p>
+    <p>
+      - This is partly about sharing
+    </p>
+    <p>
+      &#160;&#160;&#160;- Because you have to share stuff that has value, to keep their attention.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Marketing == Attention
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="What is Open Source?" ID="ID_1393652740" CREATED="1599906997682" MODIFIED="1600508675301"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -342,9 +451,10 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node TEXT="What comes to&#xa;mind for Open Source?" FOLDED="true" ID="ID_212313778" CREATED="1599907316320" MODIFIED="1599907847533">
+<node TEXT="What comes to&#xa;mind for Open Source?" ID="ID_212313778" CREATED="1599907316320" MODIFIED="1599907847533">
 <node TEXT="initial thoughts" ID="ID_1080404442" CREATED="1599907820105" MODIFIED="1599909772574"><richcontent TYPE="NOTE">
 
 <html>
@@ -422,7 +532,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Going Meta" ID="ID_1667431802" CREATED="1599906659724" MODIFIED="1599910064350"><richcontent TYPE="NOTE">
+<node TEXT="Going Meta" ID="ID_1667431802" CREATED="1599906659724" MODIFIED="1600508679849"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -458,6 +568,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="What comes to mind for &quot;Open&quot; &quot;Source&quot;" ID="ID_1712345539" CREATED="1599908098237" MODIFIED="1599909793810"><richcontent TYPE="NOTE">
 
@@ -589,7 +700,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Beyond code Examples" ID="ID_804558518" CREATED="1599910549625" MODIFIED="1599911457379"><richcontent TYPE="NOTE">
+<node TEXT="Beyond code Examples" ID="ID_804558518" CREATED="1599910549625" MODIFIED="1600517920439"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -609,7 +720,7 @@
       
     </p>
     <p>
-      - Social sharing your sources of learning
+      - Social Networks sharing your sources of learning and experience
     </p>
     <p>
       - Blogging is open sourcing your thinking
@@ -618,28 +729,56 @@
       - SlideShare (etc.) for releasing presentations
     </p>
     <p>
-      - Github can be used to host more than code
+      - YouTube for videos and examples
     </p>
     <p>
-      &#160;&#160;&#160;&#160;- e.g. 'lists' of stuff,
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;- testing notes,
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;- the raw posts for blogs,
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;- 'cheat sheets'.
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;- etc.
+      - Podcasts for thoughts and interviews
     </p>
     <p>
       
     </p>
+    <p>
+      Used together, all of this is a content web and your online open source portfolio.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## 'Code' hosting
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Github can be used to host more than code
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - e.g. 'lists' of stuff,
+    </p>
+    <p>
+      - testing notes,
+    </p>
+    <p>
+      - the raw posts for blogs,
+    </p>
+    <p>
+      - 'cheat sheets'.
+    </p>
+    <p>
+      - etc.
+    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 <node TEXT="So Far Beyond code" ID="ID_1270896886" CREATED="1599911437764" MODIFIED="1599911461403"><richcontent TYPE="NOTE">
@@ -671,7 +810,26 @@
 <node TEXT="reframe open source to everything we release" ID="ID_725641479" CREATED="1599907952045" MODIFIED="1599908001910"/>
 </node>
 </node>
-<node TEXT="Overview" ID="ID_522299559" CREATED="1599908404395" MODIFIED="1599909733800">
+<node TEXT="Paths to follow" ID="ID_522299559" CREATED="1599908404395" MODIFIED="1600508706544"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Paths to Follow
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="An Adhoc Path" ID="ID_1607846709" CREATED="1599909742763" MODIFIED="1599910749678"><richcontent TYPE="NOTE">
 
 <html>
@@ -785,8 +943,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="What can we achieve?" ID="ID_1673539972" CREATED="1599910757629" MODIFIED="1599910764992">
-<node TEXT="results over 25 years" ID="ID_1302491476" CREATED="1599910765729" MODIFIED="1599911178185"><richcontent TYPE="NOTE">
+<node TEXT="What can we achieve?" ID="ID_1673539972" CREATED="1599910757629" MODIFIED="1600508201012"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -800,7 +957,27 @@
       
     </p>
     <p>
-      # Some results of 25+ years of an Open Source Profile
+      # Results
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="results over 25 years" ID="ID_1302491476" CREATED="1599910765729" MODIFIED="1600508720398"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Some results of 25+ years of an Open Source Profile
     </p>
     <p>
       
@@ -831,13 +1008,52 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
-<node TEXT="Psychology" ID="ID_1097665527" CREATED="1599923355476" MODIFIED="1599923358324">
-<node TEXT="motivations" ID="ID_163437674" CREATED="1599923358823" MODIFIED="1599923362824">
+<node TEXT="Psychology" ID="ID_1097665527" CREATED="1599923355476" MODIFIED="1600508170036"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Psychology
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="motivations" FOLDED="true" ID="ID_163437674" CREATED="1599923358823" MODIFIED="1600508209554"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Motivations
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="benefits" ID="ID_1483522945" CREATED="1600002507490" MODIFIED="1600002509516">
-<node TEXT="personal" ID="ID_589324991" CREATED="1600002511278" MODIFIED="1600002549657"><richcontent TYPE="NOTE">
+<node TEXT="personal" ID="ID_589324991" CREATED="1600002511278" MODIFIED="1600508497723"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -862,11 +1078,18 @@
     <p>
       - Teaching Strengthens Your Knowledge
     </p>
+    <p>
+      - Experiment
+    </p>
+    <p>
+      - Get Your Message Out
+    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node TEXT="public benefits" ID="ID_99726762" CREATED="1600002550231" MODIFIED="1600002572268"><richcontent TYPE="NOTE">
+<node TEXT="public benefits" ID="ID_99726762" CREATED="1600002550231" MODIFIED="1600508595564"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -888,8 +1111,18 @@
     <p>
       - Increased Profile
     </p>
+    <p>
+      - Hard to assess
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Public Benefits are a Secondary Gain.
+    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 <node TEXT="Career Benefits" ID="ID_1886651660" CREATED="1600002597070" MODIFIED="1600002685809"><richcontent TYPE="NOTE">
@@ -926,13 +1159,1303 @@
 </node>
 </node>
 </node>
-<node TEXT="objections" ID="ID_1721064058" CREATED="1599923363239" MODIFIED="1599923367649">
+<node TEXT="objections" FOLDED="true" ID="ID_1721064058" CREATED="1599923363239" MODIFIED="1600509317373"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Objections
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - I don't want to show my mistakes
+    </p>
+    <p>
+      - I'm still learning
+    </p>
+    <p>
+      - I'm not an expert
+    </p>
+    <p>
+      - I don't want to show my limits
+    </p>
+    <p>
+      - I might not be good enough
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Objection Handling
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Treat objections as requests for further information.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Brian Tracy
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="I don&apos;t want to show my mistakes" ID="ID_321348673" CREATED="1599997412759" MODIFIED="1599997430937"/>
 <node TEXT="I don&apos;t want to show my limits" ID="ID_1231134234" CREATED="1599997431512" MODIFIED="1599997436011"/>
 </node>
+<node TEXT="attitude" FOLDED="true" ID="ID_27663419" CREATED="1600507489950" MODIFIED="1600509814036"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Attitude
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Positive Attitude
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      You've got to love the:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - output
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- what you create and share share
+    </p>
+    <p>
+      - process
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- the act of creation
+    </p>
+    <p>
+      - learning
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- improving the act of creation and sharing
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Because sharing takes work.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Negative Reinforcement
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Not for External Reinforcement
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="love the output" ID="ID_1675157895" CREATED="1600507499053" MODIFIED="1600507501815"/>
+<node TEXT="love the process" ID="ID_378870868" CREATED="1600507493537" MODIFIED="1600507498653"/>
+<node TEXT="love the learning" ID="ID_546341368" CREATED="1600507505337" MODIFIED="1600507507662"/>
+<node TEXT="not for external reinforcement" ID="ID_1007859854" CREATED="1600507513091" MODIFIED="1600507533727"/>
 </node>
-<node TEXT="Tactics" FOLDED="true" ID="ID_271280209" CREATED="1599912324203" MODIFIED="1600003188908">
-<node TEXT="Own your social profiles" FOLDED="true" ID="ID_74107324" CREATED="1599912343016" MODIFIED="1599912667548"><richcontent TYPE="NOTE">
+<node TEXT="Change the world" FOLDED="true" ID="ID_200228321" CREATED="1600508063696" MODIFIED="1600508350654"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Share to Shape the world
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Marcus Tullius Cicero" ID="ID_1653918072" CREATED="1600508317026" MODIFIED="1600508393233"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="rgb(24, 24, 24)" face="Merriweather, Georgia, serif">&gt; &#8220;I criticize by creation, not by finding fault.&#8221; </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="rgb(24, 24, 24)" face="Merriweather, Georgia, serif">- Marcus Tullius Cicero </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="william blake" ID="ID_1668504164" CREATED="1600508321791" MODIFIED="1600508445058"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; I must create a system or be enslaved by another mans; I will not reason and compare: my business is to create.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - William Blake, Jerusalem: The Emanation of the Giant Albion
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="Examples" ID="ID_574372938" CREATED="1600510319523" MODIFIED="1600513956261"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Examples
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Most of the examples are mine.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Not to show off.
+    </p>
+    <p>
+      - But so I can explain
+    </p>
+    <p>
+      &#160;&#160;&#160;- Why?
+    </p>
+    <p>
+      &#160;&#160;&#160;- How?
+    </p>
+    <p>
+      &#160;&#160;&#160;- What Worked?
+    </p>
+    <p>
+      &#160;&#160;&#160;- What Didn't?
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Approaches" ID="ID_1557692504" CREATED="1600509970503" MODIFIED="1600517761234"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Approaches
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Pointers to Information
+    </p>
+    <p>
+      - Micro Blogging
+    </p>
+    <p>
+      - Semi-Permanent Stakes in the Ground
+    </p>
+    <p>
+      - Time Bound Positions
+    </p>
+    <p>
+      - Evolving Ideas
+    </p>
+    <p>
+      - Monetised Output
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Approaches Instantiated
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Pointers to Information
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- social posts
+    </p>
+    <p>
+      - Micro Blogging
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- short social posts, Tweet Storms, Instagram
+    </p>
+    <p>
+      - Semi-Permanent Stakes in the Ground
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Blogs, LinkedIn Posts
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Editable
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Approaches Instantiated
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Time Bound Positions
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Anything you can't edit when posted
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- YouTube, SlideShare, Podcast
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Conference Talks
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- You can always delete later
+    </p>
+    <p>
+      - Evolving Ideas
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Github, Code projects
+    </p>
+    <p>
+      - Monetised Output
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Books, Training
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Twitter" ID="ID_1946610180" CREATED="1600510335288" MODIFIED="1600510345100">
+<node TEXT="Twitter" ID="ID_715716509" CREATED="1600513683468" MODIFIED="1600524482247"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## twitter.com/eviltester
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](/images/twitter-profile.png)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Notes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Open Source What?
+    </p>
+    <p>
+      &#160;&#160;&#160;- Share links, thoughts, pointers
+    </p>
+    <p>
+      &#160;&#160;&#160;- Micro-blog through TweetStorms
+    </p>
+    <p>
+      - Image created in Paint.net, then moved to getstencil.com
+    </p>
+    <p>
+      - Repurposing strategy
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- start on Twitter, then expand on a blog
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- write a blog, then summarise on Twitter
+    </p>
+    <p>
+      - I don't really use it as a Social Network
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- I use it to find and share content.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="how to use" ID="ID_9757226" CREATED="1600516067714" MODIFIED="1600516088776"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## How to Use Twitter
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Want lots of followers?
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Use it as a social network.
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Follow and interact
+    </p>
+    <p>
+      - Discoverability (via search)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- SEO for your profile
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- use keywords, hashtags in your posts
+    </p>
+    <p>
+      - Retweet and Quote
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- add value when you retweet
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- add additional hashtags
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Chatterscan" ID="ID_1202660505" CREATED="1600514587915" MODIFIED="1600516193457"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Chatterscan,com
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Learning from others.
+    </p>
+    <p>
+      - Looking for shared links to content.
+    </p>
+    <p>
+      - I wrote an open source tool to help me
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- [Chatterscan.com](https://chatterscan.com)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- [github.com/eviltester/chatterscan](https://github.com/eviltester/chatterscan)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](/images/tooling/chatterscan-com.png)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="LinkedIn" ID="ID_961753833" CREATED="1600515089192" MODIFIED="1600515094343">
+<node TEXT="Profile" ID="ID_1917273588" CREATED="1600517041327" MODIFIED="1600525271832"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Linkedin Profile
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](/images/linkedin-profile.png)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## LinkedIn Profile Notes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Keep it professional
+    </p>
+    <p>
+      - Do add personal photo
+    </p>
+    <p>
+      - Do add professional banner
+    </p>
+    <p>
+      - Do use tag line effectively
+    </p>
+    <p>
+      - SEO on linkedin applies to all
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Link to your projects
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](/images/linkedin-accomplishments.png)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Promote your Open Source Content as projects or publications.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Posts" ID="ID_690405974" CREATED="1600516563327" MODIFIED="1600525371121"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## LinkedIn Posts are Open Sourced Thinking and Sharing
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Micro Blogs
+    </p>
+    <p>
+      - Share Links to Content
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Mine and Others
+    </p>
+    <p>
+      - Reshare other people's posts
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ranked in order of success - measured by views
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## I Avoid
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - too many opinions
+    </p>
+    <p>
+      - non-work stuff
+    </p>
+    <p>
+      - but I don't use it as a social network
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Find out what works for you.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](/images/tooling/linkedin-post.png)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Example Post Notes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - 40,000+ views
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- these are organic
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- meaning anyone can achieve these numbers with the right post
+    </p>
+    <p>
+      - a Micro blog post
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Sharing Experience and Advice
+    </p>
+    <p>
+      - hashtags for discoverability
+    </p>
+    <p>
+      - SEO keywords in text
+    </p>
+    <p>
+      - Repurposed from a blog post
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Posts are Transient
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Short Lived
+    </p>
+    <p>
+      - Content 'lost' over time
+    </p>
+    <p>
+      - Repurpose micro blogs into longer lived long form content
+    </p>
+    <p>
+      &#160;&#160;&#160;- e.g. combine contents of 2 or 3 posts into a blog post or LinkedIn Article
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Articles" ID="ID_1628282808" CREATED="1600517045127" MODIFIED="1600525921790"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Linkedin Articles are an instant blogging platform
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](/images/linkedin-articles.png)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Articles Notes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - 'locked' to LinkedIn
+    </p>
+    <p>
+      - they are indexed by search engines
+    </p>
+    <p>
+      - can be viewed without a LinkedIn account
+    </p>
+    <p>
+      - metrics suggest they don't get seen as much as posts
+    </p>
+    <p>
+      - they are longer term
+    </p>
+    <p>
+      - you could start 'blogging' using LinkedIn
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- then syndicate to other sites later
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="how to use" ID="ID_203373421" CREATED="1600515094815" MODIFIED="1600516187417"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## How to Use LinkedIn
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Share Content as Posts and Articles
+    </p>
+    <p>
+      - Connect, because then people see your shared content
+    </p>
+    <p>
+      - Connect with a message
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- No message, causes more work for the other person.
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Do not immediately follow with an &quot;Ask&quot;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- You are there to &quot;Share&quot;, not to &quot;Take&quot;
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="More?" ID="ID_1487011040" CREATED="1600525923339" MODIFIED="1600526968094"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## You don't need to wait to get started
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Twitter and LinkedIn are a minimal subset that allows you to:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - blog share your knowledge
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- as long content articles
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- as micro blog 'posts'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- as micro blog 'tweetstorms'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- upload media you want to open source
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- pdfs
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- videos
+    </p>
+    <p>
+      - curate content
+    </p>
+    <p>
+      - share links to useful information
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Blogs" ID="ID_1651020238" CREATED="1600517406941" MODIFIED="1600517408577"/>
+<node TEXT="Podcasts" ID="ID_670631230" CREATED="1600517391428" MODIFIED="1600517397602"/>
+<node TEXT="YouTube" ID="ID_36955714" CREATED="1600517398166" MODIFIED="1600517400614"/>
+<node TEXT="Code" ID="ID_217096025" CREATED="1600517411954" MODIFIED="1600517414415"/>
+<node TEXT="Mailing Lists" ID="ID_1261613394" CREATED="1600518151422" MODIFIED="1600518155024"/>
+<node TEXT="Repurposing content" ID="ID_925622929" CREATED="1600516414723" MODIFIED="1600516525549"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Repurpose Content
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - All content has a 'canonical form'
+    </p>
+    <p>
+      &#160;&#160;&#160;- e.g. code (Github), app (hosted or download), blog post
+    </p>
+    <p>
+      - All content can have 'shared forms'
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Linked to in Tweets
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Syndication" FOLDED="true" ID="ID_1475620027" CREATED="1600517218544" MODIFIED="1600517596156"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Syndication
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      With Blogs, you can syndicate the content.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - RSS feed for personal syndication
+    </p>
+    <p>
+      - Submit RSS feed to Aggregators
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- https://www.ministryoftesting.com/feeds/blogs
+    </p>
+    <p>
+      - Content Syndication via&#160;repost to
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- [Dev.to](https://dev.to)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Medium (I no longer use because of paywall)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- [DZone](DZone.com)
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- remember to add canonical link, and edit content for backlink e.g. (originally published at ...)
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="RSS" ID="ID_264437067" CREATED="1600517605005" MODIFIED="1600517608020"/>
+<node TEXT="Dev.to" ID="ID_986891282" CREATED="1600517225707" MODIFIED="1600517227583"/>
+<node TEXT="DZone" ID="ID_1614770518" CREATED="1600517228598" MODIFIED="1600517601260"/>
+<node TEXT="Medium" ID="ID_1915840619" CREATED="1600517601708" MODIFIED="1600517603657"/>
+<node TEXT="canoncial metatag" ID="ID_1231877" CREATED="1600517614443" MODIFIED="1600517623308"/>
+<node TEXT="backlinks" ID="ID_1368816341" CREATED="1600517617597" MODIFIED="1600517627914"/>
+</node>
+<node TEXT="Key Principles" ID="ID_1821260557" CREATED="1600516005062" MODIFIED="1600516008927">
+<node TEXT="add value" ID="ID_12951044" CREATED="1600516009287" MODIFIED="1600516011389"/>
+<node TEXT="give more than take" ID="ID_246594853" CREATED="1600516012576" MODIFIED="1600516019214"/>
+<node TEXT="optimise for discoverability" ID="ID_258298320" CREATED="1600516022566" MODIFIED="1600516034477"/>
+</node>
+</node>
+<node TEXT="Tools" ID="ID_1882557975" CREATED="1600513774317" MODIFIED="1600513776656">
+<node TEXT="TweetStorms" ID="ID_1540816067" CREATED="1600513777180" MODIFIED="1600513887573"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## TweetStorms
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Threaded Tweets that act as a micro blog.
+    </p>
+    <p>
+      - Create by replying to an earlier Tweet.
+    </p>
+    <p>
+      - Often have (1/x) counts to let you know how many Tweets are in the Thread.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      I wrote an open source tool that helps me create TweetStorms:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [talotics.com/apps/tweetstormer/tweetstorm-tool](https://talotics.com/apps/tweetstormer/tweetstorm-tool/)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Images" ID="ID_249320247" CREATED="1600513971302" MODIFIED="1600514453774"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Image Tooling
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [getStencil](https://getstencil.com)
+    </p>
+    <p>
+      - [getPaint.net](https://www.getpaint.net/) (windows)
+    </p>
+    <p>
+      - [gimp.com](https://gimp.com)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](/images/tooling/getstencil.png)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Scheduling" ID="ID_582098992" CREATED="1600513978136" MODIFIED="1600518150410"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Free Social Media Scheduling Tools
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [Buffer](https://buffer.com/)
+    </p>
+    <p>
+      - [Later](https://later.com/)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Blogging" ID="ID_546010526" CREATED="1600513981077" MODIFIED="1600513983113"/>
+<node TEXT="Writing" ID="ID_21642718" CREATED="1600513983702" MODIFIED="1600513985488"/>
+<node TEXT="Slide Creation" ID="ID_252205197" CREATED="1600513989903" MODIFIED="1600513994676"/>
+<node TEXT="Mailing Lists" ID="ID_1976061905" CREATED="1600518162339" MODIFIED="1600518190424"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## email Lists
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [MailChimp](https://mailchimp.com/)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="Practical Steps" ID="ID_271280209" CREATED="1599912324203" MODIFIED="1600509911288"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Practical Steps
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Own your social profiles" ID="ID_74107324" CREATED="1599912343016" MODIFIED="1600509895994"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Sharing via Social Profiles
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Transient
+    </p>
+    <p>
+      - a Moment in Time
+    </p>
+    <p>
+      - Short Glimpses
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Social" ID="ID_119430442" CREATED="1599912608357" MODIFIED="1600509920426"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -947,34 +2470,6 @@
     </p>
     <p>
       ## Social Profiles
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Transient
-    </p>
-    <p>
-      - Moments of sharing
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Social" ID="ID_119430442" CREATED="1599912608357" MODIFIED="1599912623369"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # Social Profiles
     </p>
     <p>
       
@@ -995,7 +2490,7 @@
       
     </p>
     <p>
-      - Use the same 'handle' if possible.
+      - Use the same 'handle' if possible. But it does not matter if you can't.
     </p>
     <p>
       - You can't share anything if you don't have access, even if you don't use it, you now have the option.
@@ -1011,9 +2506,10 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node TEXT="Professional" ID="ID_1722781644" CREATED="1599912611624" MODIFIED="1599912629926"><richcontent TYPE="NOTE">
+<node TEXT="Professional" ID="ID_1722781644" CREATED="1599912611624" MODIFIED="1600509965994"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1030,7 +2526,7 @@
       
     </p>
     <p>
-      # Professional Profile
+      ## Professional Profile
     </p>
     <p>
       
@@ -1061,6 +2557,208 @@
     </p>
     <p>
       
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## LinkedIn is a Content Plaform
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Don't think of LinkedIn as a networking platform.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - think of it as a content sharing platform. Articles, Posts, Documents.
+    </p>
+    <p>
+      - and as a way of showing off any projects you are working on
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      TODO: images etc. of my linked in profile
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="natural style" ID="ID_551144645" CREATED="1600252181124" MODIFIED="1600252265247"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Natural Style
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      You will have your own natural style which fits different platforms.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Share Everything (Twitter)
+    </p>
+    <p>
+      - Love to Comment (Twitter, Linkedin)
+    </p>
+    <p>
+      - Long Form Content (Linkedin, Facebook, cross promote on Twitter)
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Instant Access" ID="ID_124482463" CREATED="1600252265841" MODIFIED="1600272575846"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Instant Access
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Social Platforms offer instant access to the world.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - &quot;I need to create a blog&quot;
+    </p>
+    <p>
+      - or just start posting on Linkedin
+    </p>
+    <p>
+      - collate posts into an article on Linkedin
+    </p>
+    <p>
+      - or write docs and power points ad post them to LinkedIn or SlideShare
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Cross promote on Twitter
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Principles: No Excuses. You can have a running start.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      TODO: Images of some popular posts and stats of linkedin posts
+    </p>
+    <p>
+      TODO: images of articles I posted on Linkedin
+    </p>
+    <p>
+      &#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Own your platform" ID="ID_761965967" CREATED="1600252379934" MODIFIED="1600272602355"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Own Your Platform
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      At some point you'll want to own your platform:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - blog
+    </p>
+    <p>
+      - web site
+    </p>
+    <p>
+      - etc.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      So:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - GET A DOMAIN NAME&#160;&#160;worry about hosting later
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Create it all under a domain you own e.g. NOT eviltester.blogspot.com, eviltester.wordpress.com
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- EvilTester.com
+    </p>
+    <p>
+      - Repurpose and re-use your social content.
     </p>
   </body>
 </html>
@@ -1285,7 +2983,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="The process" ID="ID_1226253890" CREATED="1600004877379" MODIFIED="1600005070374"><richcontent TYPE="NOTE">
@@ -1318,11 +3015,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="Processes" FOLDED="true" ID="ID_1182935345" CREATED="1599912672584" MODIFIED="1599912675072">
+<node TEXT="Processes" ID="ID_1182935345" CREATED="1599912672584" MODIFIED="1599912675072">
 <node TEXT="repurposing" FOLDED="true" ID="ID_807376671" CREATED="1599912677485" MODIFIED="1599912840875"><richcontent TYPE="NOTE">
 
 <html>
@@ -1391,7 +3087,7 @@
 </node>
 </node>
 <node TEXT="Examples" ID="ID_75066499" CREATED="1599997562013" MODIFIED="1599997564539">
-<node TEXT="Sharing Collated Information" FOLDED="true" ID="ID_177200222" CREATED="1599998744035" MODIFIED="1600001094669"><richcontent TYPE="NOTE">
+<node TEXT="Sharing Collated Information" ID="ID_177200222" CREATED="1599998744035" MODIFIED="1600001094669"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1724,7 +3420,107 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Outro" ID="ID_21544020" CREATED="1599923326822" MODIFIED="1599923328698"/>
+<node TEXT="Outro" ID="ID_21544020" CREATED="1599923326822" MODIFIED="1599923328698">
+<node TEXT="If you had to open source now" ID="ID_1107901016" CREATED="1600513013473" MODIFIED="1600513472567"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## If you had to open source something now, what would it be?
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## If you had to open source something now, what would stop you sharing?
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Psychology?
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- &quot;Treat objections as requests for further information.&quot; Brian Tracy
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Figure out your &quot;Why?&quot;
+    </p>
+    <p>
+      - Platform Access?
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Setup accounts on all social media
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- setup a blog using GitPages, Netlilfy, Wordpress
+    </p>
+    <p>
+      - Lack of Ideas?
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Share what you learned
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Share what you experience
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Share what stopped you
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Share what you will try next
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="we can all open source" ID="ID_584895190" CREATED="1600513483436" MODIFIED="1600513510898"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ## We can all Open Source
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;&quot;The term open source refers to **something people can modify** and share because its **design is publicly accessible**.&quot;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      [opensource.com/resources/what-open-source](https://opensource.com/resources/what-open-source)
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="objectives" POSITION="left" ID="ID_1038566243" CREATED="1600002277109" MODIFIED="1600002279872">
 <edge COLOR="#ff00ff"/>
@@ -1763,7 +3559,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="[ ] Make github Repo public" ID="ID_927656852" CREATED="1600004432971" MODIFIED="1600004443093"/>
@@ -1779,7 +3574,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
