@@ -3087,8 +3087,327 @@
 </richcontent>
 <font BOLD="false"/>
 </node>
+<node TEXT="Github Repos For Information" ID="ID_1958988393" CREATED="1600600624253" MODIFIED="1600600819138"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Github Repos are not just for code
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - e.g. [github.com/eviltester/gitpagestest](https://github.com/eviltester/gitpagestest)
+    </p>
+    <p>
+      - this is an example 'blog' using GitPages
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      These repos show various ways of building and hosting web sites.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [HuGo Docs gohugo.io](https://github.com/gohugoio/hugoDocs)
+    </p>
+    <p>
+      - [Netlify Hugo Example Site](https://github.com/netlify-templates/victor-hugo)
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
-<node TEXT="Code and App Hosting" ID="ID_1920282071" CREATED="1600599994800" MODIFIED="1600599998626"/>
+<node TEXT="Mixed Content" ID="ID_122693897" CREATED="1600600819986" MODIFIED="1600601291492"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Using GitHub Repos For Mixed Content
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Junit Examples
+    </p>
+    <p>
+      &#160;&#160;&#160;- a minimal web site
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;- [eviltester.github.io/junitexamples/](https://eviltester.github.io/junitexamples/)
+    </p>
+    <p>
+      &#160;&#160;&#160;- [readme.md](https://github.com/eviltester/junitexamples/tree/master/src/test/java/compare4and5basics) files in the code
+    </p>
+    <p>
+      &#160;&#160;&#160;- links to videos on youtube
+    </p>
+    <p>
+      &#160;&#160;&#160;- links to blog posts with more information
+    </p>
+    <p>
+      &#160;&#160;&#160;- as well as code
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](images/mixed-content-repo.gif)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="Code and App Hosting" ID="ID_1920282071" CREATED="1600599994800" MODIFIED="1600599998626">
+<node TEXT="code and app hosting on github" ID="ID_1244621623" CREATED="1600601305082" MODIFIED="1600603970783"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Code and App Hosting on Github
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](images/todo-app-github-hosted.gif)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Code And App Hosting
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - GitHub
+    </p>
+    <p>
+      &#160;&#160;&#160;- normal use for code
+    </p>
+    <p>
+      - Can be used to host JS and HTML Apps e.g.
+    </p>
+    <p>
+      &#160;&#160;&#160;- code
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- [github.com/eviltester/simpletodolist](https://github.com/eviltester/simpletodolist)
+    </p>
+    <p>
+      &#160;&#160;&#160;- App
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- [eviltester.github.io/simpletodolist/todolists.html](https://eviltester.github.io/simpletodolist/todolists.html)
+    </p>
+    <p>
+      - Also consider Netlify for JS and HTML app hosting
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="heroku for app hosting" ID="ID_1630923978" CREATED="1600603831297" MODIFIED="1600603944194"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Heroku For Free App Hosting
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [Heroku.com](https://www.heroku.com/)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      I host:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - [apichallenges.herokuapp.com/](https://apichallenges.herokuapp.com/)
+    </p>
+    <p>
+      - [testpages.herokuapp.com/](https://testpages.herokuapp.com/)
+    </p>
+    <p>
+      - [thepulper.herokuapp.com/](https://thepulper.herokuapp.com/)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="free CI" ID="ID_1040771985" CREATED="1600603975973" MODIFIED="1600604401320"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Free Continuous Integration
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Travis CI
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- [travis-ci.org/github/eviltester](https://travis-ci.org/github/eviltester)
+    </p>
+    <p>
+      - GitHub Actions
+    </p>
+    <p>
+      &#160;&#160;&#160;- [github.com/eviltester/junitexamples/actions](https://github.com/eviltester/junitexamples/actions)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Build project, run tests, when commit. Can be a full CI pipeline.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Travis CI
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](images/travis-ci.gif)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## GitHub Actions
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](images/github-actions.gif)
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="low barriers to entry" ID="ID_862870876" CREATED="1600604401921" MODIFIED="1600604426971"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Incredibly Low Barriers to Entry Now
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 <node TEXT="Outro" ID="ID_21544020" CREATED="1599923326822" MODIFIED="1599923328698">
 <node TEXT="If you had to open source now" ID="ID_1107901016" CREATED="1600513013473" MODIFIED="1600513472567"><richcontent TYPE="NOTE">
 
@@ -4325,7 +4644,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Web Sites" ID="ID_921911697" CREATED="1600001624895" MODIFIED="1600001947703"><richcontent TYPE="NOTE">
+<node TEXT="Web Sites" ID="ID_921911697" CREATED="1600001624895" MODIFIED="1600600787492"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -4364,6 +4683,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
