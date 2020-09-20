@@ -3194,6 +3194,42 @@
 </node>
 </node>
 <node TEXT="Code and App Hosting" ID="ID_1920282071" CREATED="1600599994800" MODIFIED="1600599998626">
+<node TEXT="gist" ID="ID_1420247355" CREATED="1600607590788" MODIFIED="1600607715755"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Use Gist to share code snippets
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      [gist.github.com/eviltester](https://gist.github.com/eviltester)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![](images/tooling/gist.png)
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 <node TEXT="code and app hosting on github" ID="ID_1244621623" CREATED="1600601305082" MODIFIED="1600603970783"><richcontent TYPE="NOTE">
 
 <html>
@@ -3512,6 +3548,51 @@
 </html>
 </richcontent>
 </node>
+</node>
+<node TEXT="Final Slide" ID="ID_1902929316" CREATED="1600607775381" MODIFIED="1600608069102"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ## Alan Richardson - Partial Open Source Profile
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - blogs: [eviltester.com](https://eviltester.com), [talotics.com](https://talotics.com)
+    </p>
+    <p>
+      - social: [twitter.com/eviltester](https://twitter.com/eviltester), [linkedin.com/in/eviltester](https://uk.linkedin.com/in/eviltester), [instagram.com/eviltester](https://www.instagram.com/eviltester/)
+    </p>
+    <p>
+      - code: [github.com/eviltester](https://github.com/eviltester)
+    </p>
+    <p>
+      - videos: [youtube.com/c/EvilTester](https://www.youtube.com/c/EvilTester)
+    </p>
+    <p>
+      - Podcast: [eviltester.com/show](http://eviltester.com/show)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Q&amp;A
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 <node TEXT="Extras" ID="ID_619590604" CREATED="1600599001362" MODIFIED="1600599942461"><richcontent TYPE="NOTE">
 
@@ -4085,7 +4166,26 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Case Study: This Talk" ID="ID_1016590195" CREATED="1600003171709" MODIFIED="1600003178333">
+<node TEXT="Case Study: This Talk" FOLDED="true" ID="ID_1016590195" CREATED="1600003171709" MODIFIED="1600607019519"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Case Study: This Talk
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="Tooling" ID="ID_484640061" CREATED="1600003189919" MODIFIED="1600598747858"><richcontent TYPE="NOTE">
 
 <html>
@@ -4244,7 +4344,7 @@
 </node>
 </node>
 <node TEXT="Processes" ID="ID_1182935345" CREATED="1599912672584" MODIFIED="1599912675072">
-<node TEXT="repurposing" FOLDED="true" ID="ID_807376671" CREATED="1599912677485" MODIFIED="1599912840875"><richcontent TYPE="NOTE">
+<node TEXT="repurposing" FOLDED="true" ID="ID_807376671" CREATED="1599912677485" MODIFIED="1600607109053"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -4303,10 +4403,29 @@
       
     </p>
     <p>
-      &lt;!-- Create a diagram showing content repurposing web in digraph --&gt;
+      We are creating a web of related content.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      And repurposing content to:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - promote and make our content discoverable
+    </p>
+    <p>
+      - create new content for different platforms
+    </p>
+    <p>
+      - add backlinks into description fields
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="Content Web" ID="ID_187841459" CREATED="1599923290334" MODIFIED="1599923293386"/>
 </node>
