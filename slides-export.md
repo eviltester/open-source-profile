@@ -15,7 +15,7 @@ Alan Richardson
 
 ---
 
-# What we will cover
+# Open Source is not 'just' code. It is knowledge. The more people share what they learn and examples of what they do. The faster our craft advances.
 
 ---
 
@@ -25,6 +25,37 @@ Alan Richardson
 - Theory of Open Source
 - Psychology and Attitude to Open Source
 - Approaches and Tooling
+
+---
+
+# Results of 25 Years Open Sourcing
+
+---
+
+# Some results of 25+ years of an Open Source Profile
+
+- 670+ blog posts on multiple blogs
+- 120+ Public Repositories on Github
+- 320+ YouTube Videos
+    - 370+ (I have some 'secret' YouTube Channels)
+- 10+ Training Courses, 4+ Books, 10+ Tools
+
+**Note: 25+ years** this is a gradual and incremental process of deliberate sharing and value add.
+
+---
+
+# What if we shared everything?
+
+- Create multiple channels
+- Create more options for sharing
+
+---
+
+![fit](images/released/share-everything.png)
+
+---
+
+![fit](images/released/atarimania-listing.png)
 
 ---
 
@@ -141,6 +172,16 @@ Github can be used to host more than code
 
 ---
 
+# Knowledge has a discovery advantage
+
+- tools and code are often in one place
+- they lack SEO
+- they lack a marketing department
+
+Knowledge spreads organically and is easier to repurpose for marketing.
+
+---
+
 # Paths to Follow
 
 ---
@@ -171,37 +212,6 @@ Github can be used to host more than code
 - Product Creation
 - Teach
 - Build a Mixed Media Content Web
-
----
-
-# Results of 25 Years Open Sourcing
-
----
-
-# Some results of 25+ years of an Open Source Profile
-
-- 670+ blog posts on multiple blogs
-- 120+ Public Repositories on Github
-- 320+ YouTube Videos
-    - 370+ (I have some 'secret' YouTube Channels)
-- 10+ Training Courses, 4+ Books, 10+ Tools
-
-**Note: 25+ years** this is a gradual and incremental process of deliberate sharing and value add.
-
----
-
-# What if we shared everything?
-
-- Create multiple channels
-- Create more options for sharing
-
----
-
-![fit](images/released/share-everything.png)
-
----
-
-![fit](images/released/atarimania-listing.png)
 
 ---
 
@@ -290,6 +300,18 @@ Public Benefits are a Secondary Gain.
 
 ---
 
+# Objections
+
+- I don't have time
+    - Incrementally build
+    - start by curating and sharing other people's work
+    - build a habit of sharing
+    - Reflect on a daily basis
+    - Document and share your reflection
+    - Share as you create
+
+---
+
 # The more you share...
 
 ...the less you care:
@@ -297,7 +319,7 @@ Public Benefits are a Secondary Gain.
 - about what people think,
 - or if the older stuff stinks.
 
-You moved on,.
+You moved on,
 And to new stuff you are drawn.
 
 ---
@@ -567,6 +589,18 @@ Don't think of LinkedIn as a networking platform.
 
 ---
 
+# Natural Style
+
+You will have your own natural style which fits different platforms.
+
+- Share Everything (Twitter)
+- Love to Comment (Twitter, Linkedin)
+- Long Form Content (Linkedin, Facebook, Blogging, cross promote on Twitter)
+
+Do what is comfortable.
+
+---
+
 # You don't need to wait to get started
 
 Twitter and LinkedIn allows you to:
@@ -648,48 +682,6 @@ You can add domains you own here for free.
 - Give more than you Ask
 - Optimise for Discoverability
     - Open Sourcing Information has an advantage here
-
----
-
-# Social Profiles
-
-- Create accounts on social:
-   - Twitter
-   - Instagram
-   - YouTube
-
-- Use the same 'handle' if possible. But it does not matter if you can't.
-- You can't share anything if you don't have access, even if you don't use it, you now have the option.
-
----
-
-# PRINCIPLE: Maximise the options open to you for sharing value..
-
----
-
-# Natural Style
-
-You will have your own natural style which fits different platforms.
-
-- Share Everything (Twitter)
-- Love to Comment (Twitter, Linkedin)
-- Long Form Content (Linkedin, Facebook, cross promote on Twitter)
-
-Do what is comfortable.
-
----
-
-# Own Your Platform
-
-At some point you'll want to own your platform:
-
-- blog, web site, etc.
-
-So:
-
-- GET A DOMAIN NAME
-    - worry about hosting later
-    - you can move and redirect later
 
 ---
 
@@ -957,6 +949,36 @@ Paid Tools:
 
 - [MailChimp](https://mailchimp.com/)
 - [SendFox](https://sendfox.com/)
+
+---
+
+# Social Profiles
+
+- Create accounts on social:
+   - Twitter
+   - Instagram
+   - YouTube
+
+- Use the same 'handle' if possible. But it does not matter if you can't.
+- You can't share anything if you don't have access, even if you don't use it, you now have the option.
+
+---
+
+# PRINCIPLE: Maximise the options open to you for sharing value..
+
+---
+
+# Own Your Platform
+
+At some point you'll want to own your platform:
+
+- blog, web site, etc.
+
+So:
+
+- GET A DOMAIN NAME
+    - worry about hosting later
+    - you can move and redirect later
 
 ---
 

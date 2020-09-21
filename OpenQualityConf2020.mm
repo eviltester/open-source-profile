@@ -302,7 +302,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -360,11 +359,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="What we will cover" ID="ID_554513684" CREATED="1600512831804" MODIFIED="1600512903729"><richcontent TYPE="NOTE">
+<node TEXT="Opening statement" ID="ID_554513684" CREATED="1600512831804" MODIFIED="1600702420049"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -378,11 +376,16 @@
       
     </p>
     <p>
-      # What we will cover
+      # Open Source is not 'just' code. It is knowledge. The more people share what they learn and examples of what they do. The faster our craft advances.
+    </p>
+    <p>
+      
     </p>
   </body>
 </html>
+
 </richcontent>
+</node>
 <node TEXT="everyone can open source" ID="ID_1203319008" CREATED="1600512849895" MODIFIED="1600610214059"><richcontent TYPE="NOTE">
 
 <html>
@@ -416,7 +419,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="my relationship with opensource" ID="ID_350204194" CREATED="1600512837680" MODIFIED="1600512849032"/>
 <node TEXT="theory of open source" ID="ID_1653415896" CREATED="1600512868508" MODIFIED="1600512874044"/>
@@ -424,9 +426,139 @@
 <node TEXT="approaches" ID="ID_1789246893" CREATED="1600512878897" MODIFIED="1600512880533"/>
 <node TEXT="tooling" ID="ID_435352480" CREATED="1600512880896" MODIFIED="1600512882245"/>
 </node>
+<node TEXT="What can we achieve?" FOLDED="true" ID="ID_1673539972" CREATED="1599910757629" MODIFIED="1600702544675"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Results of 25+ Years Open Sourcing
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="results over 25 years" ID="ID_1302491476" CREATED="1599910765729" MODIFIED="1600610410486"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Some results of 25+ years of an Open Source Profile
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - 670+ blog posts on multiple blogs
+    </p>
+    <p>
+      - 120+ Public Repositories on Github
+    </p>
+    <p>
+      - 320+ YouTube Videos
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- 370+ (I have some 'secret' YouTube Channels)
+    </p>
+    <p>
+      - 10+ Training Courses, 4+ Books, 10+ Tools
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      **Note: 25+ years** this is a gradual and incremental process of deliberate sharing and value add.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="what if we shared everything?" ID="ID_350245587" CREATED="1600595342972" MODIFIED="1600610097718"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # What if we shared everything?
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Create multiple channels
+    </p>
+    <p>
+      - Create more options for sharing
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![fit](images/released/share-everything.png)
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="atari st" ID="ID_1595781220" CREATED="1600595665182" MODIFIED="1600595669469">
+<node TEXT="guitar software" ID="ID_1300165507" CREATED="1600595673316" MODIFIED="1600610033940"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ![fit](images/released/atarimania-listing.png)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="reframe and explore&#xa;open source" ID="ID_1642681932" CREATED="1600508661666" MODIFIED="1600508687618">
-<node TEXT="what is this talk about?" ID="ID_344521311" CREATED="1600273278023" MODIFIED="1600610216069"><richcontent TYPE="NOTE">
+<node TEXT="what is this talk about?" ID="ID_344521311" CREATED="1600273278023" MODIFIED="1600701789204"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -466,6 +598,9 @@
     <p>
       &#160;&#160;&#160;- Share stuff that has value, to keep attention.
     </p>
+    <p>
+      
+    </p>
   </body>
 </html>
 
@@ -501,7 +636,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="What comes to&#xa;mind for Open Source?" ID="ID_212313778" CREATED="1599907316320" MODIFIED="1599907847533">
@@ -544,7 +678,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="attributes" ID="ID_281068922" CREATED="1599907827417" MODIFIED="1600610259632"><richcontent TYPE="NOTE">
@@ -580,7 +713,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -690,7 +822,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Beyond code" ID="ID_156340598" CREATED="1599907574023" MODIFIED="1600609598154"><richcontent TYPE="NOTE">
@@ -735,7 +866,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Beyond code Examples" ID="ID_804558518" CREATED="1599910549625" MODIFIED="1600610366311"><richcontent TYPE="NOTE">
@@ -822,10 +952,9 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
-<node TEXT="So Far Beyond code" ID="ID_1270896886" CREATED="1599911437764" MODIFIED="1600609665331"><richcontent TYPE="NOTE">
+<node TEXT="So Far Beyond code" ID="ID_1270896886" CREATED="1599911437764" MODIFIED="1600701789216"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -840,6 +969,48 @@
     </p>
     <p>
       ## There are so many ways you can share your knowledge and experience and contribute to the Open Sourcing of Value.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Knowledge has a discovery advantage" ID="ID_1716728517" CREATED="1600701793887" MODIFIED="1600702034280"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Knowledge has a discovery advantage
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - tools and code are often in one place
+    </p>
+    <p>
+      - they lack SEO
+    </p>
+    <p>
+      - they lack a marketing department
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Knowledge spreads organically and is easier to repurpose for marketing.
+    </p>
+    <p>
+      
     </p>
   </body>
 </html>
@@ -922,7 +1093,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="A Structured Path" ID="ID_590321648" CREATED="1599909718663" MODIFIED="1600610405424"><richcontent TYPE="NOTE">
@@ -970,145 +1140,7 @@
     </p>
   </body>
 </html>
-
 </richcontent>
-</node>
-</node>
-<node TEXT="What can we achieve?" ID="ID_1673539972" CREATED="1599910757629" MODIFIED="1600609992571"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # Results of 25 Years Open Sourcing
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="results over 25 years" ID="ID_1302491476" CREATED="1599910765729" MODIFIED="1600610410486"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # Some results of 25+ years of an Open Source Profile
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - 670+ blog posts on multiple blogs
-    </p>
-    <p>
-      - 120+ Public Repositories on Github
-    </p>
-    <p>
-      - 320+ YouTube Videos
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;- 370+ (I have some 'secret' YouTube Channels)
-    </p>
-    <p>
-      - 10+ Training Courses, 4+ Books, 10+ Tools
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      **Note: 25+ years** this is a gradual and incremental process of deliberate sharing and value add.
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node TEXT="what if we shared everything?" ID="ID_350245587" CREATED="1600595342972" MODIFIED="1600610097718"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # What if we shared everything?
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Create multiple channels
-    </p>
-    <p>
-      - Create more options for sharing
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      ![fit](images/released/share-everything.png)
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node TEXT="atari st" ID="ID_1595781220" CREATED="1600595665182" MODIFIED="1600595669469">
-<node TEXT="guitar software" ID="ID_1300165507" CREATED="1600595673316" MODIFIED="1600610033940"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      ![fit](images/released/atarimania-listing.png)
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
 </node>
 </node>
 <node TEXT="Psychology" ID="ID_1097665527" CREATED="1599923355476" MODIFIED="1600508170036"><richcontent TYPE="NOTE">
@@ -1288,7 +1320,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="I don&apos;t want to show my mistakes" ID="ID_321348673" CREATED="1599997412759" MODIFIED="1600610473725"><richcontent TYPE="NOTE">
@@ -1345,7 +1376,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="I don&apos;t want to show my limits" ID="ID_1231134234" CREATED="1599997431512" MODIFIED="1600610485288"><richcontent TYPE="NOTE">
@@ -1405,7 +1435,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="I might not be good enough" ID="ID_1845873627" CREATED="1600596589827" MODIFIED="1600596609427"><richcontent TYPE="NOTE">
@@ -1456,12 +1485,56 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="But my work is confidential" ID="ID_1723005651" CREATED="1599923191946" MODIFIED="1599923196872"/>
 <node TEXT="make it generic small examples" ID="ID_950655446" CREATED="1599923197383" MODIFIED="1599923214097"/>
 </node>
-<node TEXT="share more" ID="ID_1641487424" CREATED="1600596621428" MODIFIED="1600610704619"><richcontent TYPE="NOTE">
+<node TEXT="I don&apos;t have time" ID="ID_1229004185" CREATED="1600702214071" MODIFIED="1600702330334"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Objections
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - I don't have time
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Incrementally build
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- start by curating and sharing other people's work
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- build a habit of sharing
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Reflect on a daily basis
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Document and share your reflection
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Share as you create
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="share more" ID="ID_1641487424" CREATED="1600596621428" MODIFIED="1600702604691"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1499,7 +1572,7 @@
       
     </p>
     <p>
-      You moved on,.
+      You moved on,
     </p>
     <p>
       And to new stuff you are drawn.
@@ -1564,9 +1637,6 @@
     <p>
       
     </p>
-    <p>
-      
-    </p>
   </body>
 </html>
 
@@ -1594,7 +1664,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="positive" FOLDED="true" ID="ID_968058070" CREATED="1600597492661" MODIFIED="1600611012499"><richcontent TYPE="NOTE">
 
@@ -1653,7 +1722,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="love the output" ID="ID_1675157895" CREATED="1600507499053" MODIFIED="1600507501815"/>
 <node TEXT="love the process" ID="ID_378870868" CREATED="1600507493537" MODIFIED="1600507498653"/>
@@ -1686,7 +1754,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="not for external reinforcement" ID="ID_1007859854" CREATED="1600507513091" MODIFIED="1600507533727"/>
 </node>
@@ -1740,7 +1807,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="william blake" ID="ID_1668504164" CREATED="1600508321791" MODIFIED="1600610978388"><richcontent TYPE="NOTE">
@@ -1767,7 +1833,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1858,7 +1923,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="detailed" ID="ID_1021415342" CREATED="1600597598268" MODIFIED="1600611104079"><richcontent TYPE="NOTE">
@@ -1951,7 +2015,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2022,7 +2085,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="how to use" ID="ID_9757226" CREATED="1600516067714" MODIFIED="1600611135168"><richcontent TYPE="NOTE">
@@ -2076,7 +2138,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Chatterscan" ID="ID_1202660505" CREATED="1600514587915" MODIFIED="1600611294747"><richcontent TYPE="NOTE">
@@ -2130,7 +2191,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2222,7 +2282,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Posts" ID="ID_690405974" CREATED="1600516563327" MODIFIED="1600611487227"><richcontent TYPE="NOTE">
@@ -2369,7 +2428,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Articles" ID="ID_1628282808" CREATED="1600517045127" MODIFIED="1600611533041"><richcontent TYPE="NOTE">
@@ -2426,7 +2484,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="how to use" ID="ID_203373421" CREATED="1600515094815" MODIFIED="1600611640825"><richcontent TYPE="NOTE">
@@ -2498,9 +2555,53 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
+</node>
+<node TEXT="natural style" ID="ID_551144645" CREATED="1600252181124" MODIFIED="1600702116008"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Natural Style
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      You will have your own natural style which fits different platforms.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Share Everything (Twitter)
+    </p>
+    <p>
+      - Love to Comment (Twitter, Linkedin)
+    </p>
+    <p>
+      - Long Form Content (Linkedin, Facebook, Blogging, cross promote on Twitter)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Do what is comfortable.
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 <node TEXT="More?" ID="ID_1487011040" CREATED="1600525923339" MODIFIED="1600611648419"><richcontent TYPE="NOTE">
 
@@ -2550,7 +2651,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Instant Access" ID="ID_124482463" CREATED="1600252265841" MODIFIED="1600611711245"><richcontent TYPE="NOTE">
 
@@ -2603,7 +2703,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2685,7 +2784,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Repurposing content" ID="ID_925622929" CREATED="1600516414723" MODIFIED="1600516525549"><richcontent TYPE="NOTE">
@@ -2723,7 +2821,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Syndication" FOLDED="true" ID="ID_1475620027" CREATED="1600517218544" MODIFIED="1600611921638"><richcontent TYPE="NOTE">
+<node TEXT="Syndication" FOLDED="true" ID="ID_1475620027" CREATED="1600517218544" MODIFIED="1600702140426"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -2762,9 +2860,6 @@
     </p>
     <p>
       &#160;&#160;&#160;&#160;- add canonical link, and edit content for backlink e.g. (originally published at ...)
-    </p>
-    <p>
-      
     </p>
   </body>
 </html>
@@ -2813,174 +2908,13 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="add value" ID="ID_12951044" CREATED="1600516009287" MODIFIED="1600516011389"/>
 <node TEXT="give more than take" ID="ID_246594853" CREATED="1600516012576" MODIFIED="1600516019214"/>
 <node TEXT="optimise for discoverability" ID="ID_258298320" CREATED="1600516022566" MODIFIED="1600516034477"/>
 </node>
 </node>
-<node TEXT="Quick Wins" ID="ID_1777772101" CREATED="1600598280918" MODIFIED="1600598283945">
-<node TEXT="Own your social profiles" ID="ID_74107324" CREATED="1599912343016" MODIFIED="1600598337558">
-<node TEXT="Social" ID="ID_119430442" CREATED="1599912608357" MODIFIED="1600612073967"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # Social Profiles
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Create accounts on social:
-    </p>
-    <p>
-      &#160;&#160;&#160;- Twitter
-    </p>
-    <p>
-      &#160;&#160;&#160;- Instagram
-    </p>
-    <p>
-      &#160;&#160;&#160;- YouTube
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Use the same 'handle' if possible. But it does not matter if you can't.
-    </p>
-    <p>
-      - You can't share anything if you don't have access, even if you don't use it, you now have the option.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # PRINCIPLE: Maximise the options open to you for sharing value..
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node TEXT="natural style" ID="ID_551144645" CREATED="1600252181124" MODIFIED="1600611982589"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # Natural Style
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      You will have your own natural style which fits different platforms.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Share Everything (Twitter)
-    </p>
-    <p>
-      - Love to Comment (Twitter, Linkedin)
-    </p>
-    <p>
-      - Long Form Content (Linkedin, Facebook, cross promote on Twitter)
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Do what is comfortable.
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node TEXT="Own your platform" ID="ID_761965967" CREATED="1600252379934" MODIFIED="1600611985915"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ---
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      # Own Your Platform
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      At some point you'll want to own your platform:
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - blog, web site, etc.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      So:
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - GET A DOMAIN NAME
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;-&#160;worry about hosting later
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;- you can move and redirect later
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="Practical Steps - Using GitHub For Information Hosting" ID="ID_1815799180" CREATED="1600600007291" MODIFIED="1600600026077">
+<node TEXT="Practical Steps - Using GitHub&#xa;For Information Hosting" ID="ID_1815799180" CREATED="1600600007291" MODIFIED="1600702187820">
 <node TEXT="Github readme" ID="ID_1187517263" CREATED="1600600027801" MODIFIED="1600612002203"><richcontent TYPE="NOTE">
 
 <html>
@@ -3092,7 +3026,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="false"/>
 </node>
@@ -3141,7 +3074,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Mixed Content" ID="ID_122693897" CREATED="1600600819986" MODIFIED="1600612295435"><richcontent TYPE="NOTE">
@@ -3204,7 +3136,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3242,7 +3173,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="code and app hosting on github" ID="ID_1244621623" CREATED="1600601305082" MODIFIED="1600612370471"><richcontent TYPE="NOTE">
@@ -3302,7 +3232,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="heroku for app hosting" ID="ID_1630923978" CREATED="1600603831297" MODIFIED="1600612378087"><richcontent TYPE="NOTE">
@@ -3347,7 +3276,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="free CI" ID="ID_1040771985" CREATED="1600603975973" MODIFIED="1600612398538"><richcontent TYPE="NOTE">
@@ -3416,7 +3344,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="low barriers to entry" ID="ID_862870876" CREATED="1600604401921" MODIFIED="1600612433513"><richcontent TYPE="NOTE">
@@ -3437,7 +3364,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3520,7 +3446,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="we can all open source" ID="ID_584895190" CREATED="1600513483436" MODIFIED="1600527206109"><richcontent TYPE="NOTE">
@@ -3601,7 +3526,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Extras" ID="ID_619590604" CREATED="1600599001362" MODIFIED="1600599942461"><richcontent TYPE="NOTE">
@@ -3628,7 +3552,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Tools" ID="ID_1882557975" CREATED="1600513774317" MODIFIED="1600612634581"><richcontent TYPE="NOTE">
@@ -3649,7 +3572,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="TweetStorms" ID="ID_1540816067" CREATED="1600513777180" MODIFIED="1600612622939"><richcontent TYPE="NOTE">
 
@@ -3693,7 +3615,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Images" ID="ID_249320247" CREATED="1600513971302" MODIFIED="1600612644894"><richcontent TYPE="NOTE">
@@ -3738,7 +3659,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Scheduling" ID="ID_582098992" CREATED="1600513978136" MODIFIED="1600518150410"><richcontent TYPE="NOTE">
@@ -3839,7 +3759,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Writing" ID="ID_21642718" CREATED="1600513983702" MODIFIED="1600612785783"><richcontent TYPE="NOTE">
@@ -3905,7 +3824,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Slide Creation" ID="ID_252205197" CREATED="1600513989903" MODIFIED="1600612790973"><richcontent TYPE="NOTE">
@@ -3947,7 +3865,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Mailing Lists" ID="ID_1976061905" CREATED="1600518162339" MODIFIED="1600599932279"><richcontent TYPE="NOTE">
@@ -3977,7 +3894,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3987,6 +3903,118 @@
 <node TEXT="YouTube" ID="ID_36955714" CREATED="1600517398166" MODIFIED="1600517400614"/>
 <node TEXT="Code" ID="ID_217096025" CREATED="1600517411954" MODIFIED="1600517414415"/>
 <node TEXT="Mailing Lists" ID="ID_1261613394" CREATED="1600518151422" MODIFIED="1600518155024"/>
+<node TEXT="Own your social profiles" ID="ID_74107324" CREATED="1599912343016" MODIFIED="1600598337558">
+<node TEXT="Social" ID="ID_119430442" CREATED="1599912608357" MODIFIED="1600702059768"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Social Profiles
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Create accounts on social:
+    </p>
+    <p>
+      &#160;&#160;&#160;- Twitter
+    </p>
+    <p>
+      &#160;&#160;&#160;- Instagram
+    </p>
+    <p>
+      &#160;&#160;&#160;- YouTube
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Use the same 'handle' if possible. But it does not matter if you can't.
+    </p>
+    <p>
+      - You can't share anything if you don't have access, even if you don't use it, you now have the option.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # PRINCIPLE: Maximise the options open to you for sharing value..
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Own your platform" ID="ID_761965967" CREATED="1600252379934" MODIFIED="1600611985915"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Own Your Platform
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      At some point you'll want to own your platform:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - blog, web site, etc.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      So:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - GET A DOMAIN NAME
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;-&#160;worry about hosting later
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- you can move and redirect later
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="More Practical Steps" ID="ID_271280209" CREATED="1599912324203" MODIFIED="1600597842552"><richcontent TYPE="NOTE">
 
@@ -4068,7 +4096,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -4157,7 +4184,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="own your platform" ID="ID_115799997" CREATED="1600598500765" MODIFIED="1600598606312"><richcontent TYPE="NOTE">
@@ -4208,7 +4234,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -4230,7 +4255,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Tooling" ID="ID_484640061" CREATED="1600003189919" MODIFIED="1600612861937"><richcontent TYPE="NOTE">
 
@@ -4349,7 +4373,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="The process" ID="ID_1226253890" CREATED="1600004877379" MODIFIED="1600598840807"><richcontent TYPE="NOTE">
@@ -4394,7 +4417,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -4480,7 +4502,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Content Web" ID="ID_187841459" CREATED="1599923290334" MODIFIED="1599923293386"/>
 </node>
@@ -4524,7 +4545,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Sharing Collated Information" ID="ID_177200222" CREATED="1599998744035" MODIFIED="1600612912526"><richcontent TYPE="NOTE">
 
@@ -4571,7 +4591,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Awesome Lists" ID="ID_299167437" CREATED="1599998757848" MODIFIED="1600001038598"><richcontent TYPE="NOTE">
 
@@ -4851,7 +4870,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
