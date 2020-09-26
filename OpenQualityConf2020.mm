@@ -308,7 +308,7 @@
 <node TEXT="slides" POSITION="right" ID="ID_1673688204" CREATED="1599906624789" MODIFIED="1600002275335">
 <edge COLOR="#0000ff"/>
 <node TEXT="Introduction" ID="ID_777187735" CREATED="1599906652936" MODIFIED="1599906657037">
-<node TEXT="Intro Slide" ID="ID_15817857" CREATED="1599906688262" MODIFIED="1600608841859"><richcontent TYPE="NOTE">
+<node TEXT="Intro Slide" ID="ID_15817857" CREATED="1599906688262" MODIFIED="1601121820485"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -340,6 +340,12 @@
       
     </p>
     <p>
+      - [github.com/eviltester/open-source-profile](https://github.com/eviltester/open-source-profile)
+    </p>
+    <p>
+      
+    </p>
+    <p>
       Alan Richardson
     </p>
     <p>
@@ -352,13 +358,11 @@
       - [EvilTester.com](https://eviltester.com)
     </p>
     <p>
-      - [compendiumdev.co.uk](https://compendiumdev.co.uk)
-    </p>
-    <p>
       - [digitalonlinetactics.com](https://talotics.com)
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
@@ -383,7 +387,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="everyone can open source" ID="ID_1203319008" CREATED="1600512849895" MODIFIED="1600610214059"><richcontent TYPE="NOTE">
@@ -444,7 +447,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="results over 25 years" ID="ID_1302491476" CREATED="1599910765729" MODIFIED="1600610410486"><richcontent TYPE="NOTE">
 
@@ -603,7 +605,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="What is Open Source?" ID="ID_1393652740" CREATED="1599906997682" MODIFIED="1600610230394"><richcontent TYPE="NOTE">
@@ -972,7 +973,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Knowledge has a discovery advantage" ID="ID_1716728517" CREATED="1600701793887" MODIFIED="1600702034280"><richcontent TYPE="NOTE">
@@ -1014,7 +1014,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="reframe open source to everything we release" ID="ID_725641479" CREATED="1599907952045" MODIFIED="1599908001910"/>
@@ -1531,7 +1530,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="share more" ID="ID_1641487424" CREATED="1600596621428" MODIFIED="1600702604691"><richcontent TYPE="NOTE">
@@ -1639,7 +1637,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1665,7 +1662,7 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="positive" FOLDED="true" ID="ID_968058070" CREATED="1600597492661" MODIFIED="1600611012499"><richcontent TYPE="NOTE">
+<node TEXT="positive" FOLDED="true" ID="ID_968058070" CREATED="1600597492661" MODIFIED="1601118034242"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1694,7 +1691,7 @@
       - the output
     </p>
     <p>
-      &#160;&#160;&#160;&#160;- what you create and share share
+      &#160;&#160;&#160;&#160;- what you create and share
     </p>
     <p>
       - the process, the act of creation
@@ -1717,11 +1714,9 @@
     <p>
       # Because sharing takes work.
     </p>
-    <p>
-      
-    </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="love the output" ID="ID_1675157895" CREATED="1600507499053" MODIFIED="1600507501815"/>
 <node TEXT="love the process" ID="ID_378870868" CREATED="1600507493537" MODIFIED="1600507498653"/>
@@ -2600,7 +2595,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="More?" ID="ID_1487011040" CREATED="1600525923339" MODIFIED="1600611648419"><richcontent TYPE="NOTE">
@@ -2863,7 +2857,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="RSS" ID="ID_264437067" CREATED="1600517605005" MODIFIED="1600517608020"/>
 <node TEXT="Dev.to" ID="ID_986891282" CREATED="1600517225707" MODIFIED="1600517227583"/>
@@ -3076,7 +3069,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Mixed Content" ID="ID_122693897" CREATED="1600600819986" MODIFIED="1600612295435"><richcontent TYPE="NOTE">
+<node TEXT="Mixed Content" ID="ID_122693897" CREATED="1600600819986" MODIFIED="1601119441186"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -3090,7 +3083,7 @@
       
     </p>
     <p>
-      ![fit(images/mixed-content-repo.gif)
+      ![fit](images/mixed-content-repo.gif)
     </p>
     <p>
       
@@ -3120,7 +3113,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;- eviltester.github.io/junitexamples
     </p>
     <p>
-      &#160;&#160;&#160;- [readme.md](https://github.com/eviltester/junitexamples/tree/master/src/test/java/compare4and5basics) files in the code
+      &#160;&#160;&#160;-&#160; [readme.md](https://github.com/eviltester/junitexamples/tree/master/src/test/java/compare4and5basics) files in the code
     </p>
     <p>
       &#160;&#160;&#160;- links to videos on youtube
@@ -3131,11 +3124,9 @@
     <p>
       &#160;&#160;&#160;- as well as code
     </p>
-    <p>
-      
-    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
@@ -3175,7 +3166,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="code and app hosting on github" ID="ID_1244621623" CREATED="1600601305082" MODIFIED="1600612370471"><richcontent TYPE="NOTE">
+<node TEXT="code and app hosting on github" ID="ID_1244621623" CREATED="1600601305082" MODIFIED="1601119601875"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -3219,19 +3210,41 @@
       &#160;&#160;&#160;- code
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- [github.com/eviltester/simpletodolist](https://github.com/eviltester/simpletodolist)
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- github.com/eviltester/simpletodolist
     </p>
     <p>
       &#160;&#160;&#160;- App
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- [eviltester.github.io/simpletodolist/todolists.html](https://eviltester.github.io/simpletodolist/todolists.html)
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- eviltester.github.io/simpletodolist/todolists.htm
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Netlify
+    </p>
+    <p>
+      
     </p>
     <p>
       - Also consider Netlify for JS and HTML app hosting
     </p>
+    <p>
+      - as well as static blog sites
+    </p>
+    <p>
+      
+    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 <node TEXT="heroku for app hosting" ID="ID_1630923978" CREATED="1600603831297" MODIFIED="1600612378087"><richcontent TYPE="NOTE">
@@ -3448,7 +3461,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="we can all open source" ID="ID_584895190" CREATED="1600513483436" MODIFIED="1600527206109"><richcontent TYPE="NOTE">
+<node TEXT="we can all open source" ID="ID_584895190" CREATED="1600513483436" MODIFIED="1601119787314"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -3462,7 +3475,7 @@
       
     </p>
     <p>
-      ## We can all Open Source
+      # We can all Open Source
     </p>
     <p>
       
@@ -3476,15 +3489,13 @@
     <p>
       [opensource.com/resources/what-open-source](https://opensource.com/resources/what-open-source)
     </p>
-    <p>
-      
-    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
-<node TEXT="Final Slide" ID="ID_1902929316" CREATED="1600607775381" MODIFIED="1600608069102"><richcontent TYPE="NOTE">
+<node TEXT="Final Slide" ID="ID_1902929316" CREATED="1600607775381" MODIFIED="1601116314181"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -3498,7 +3509,7 @@
       
     </p>
     <p>
-      ## Alan Richardson - Partial Open Source Profile
+      # Alan Richardson - Partial Open Source Profile
     </p>
     <p>
       
@@ -3526,9 +3537,10 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node TEXT="Extras" ID="ID_619590604" CREATED="1600599001362" MODIFIED="1600599942461"><richcontent TYPE="NOTE">
+<node TEXT="Extras" ID="ID_619590604" CREATED="1600599001362" MODIFIED="1601116253048"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -3542,16 +3554,11 @@
       
     </p>
     <p>
-      # Extras
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      All the stuff I couldn't fit into the talk.
+      # Extras - All the stuff I couldn't fit into the talk.
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 <node TEXT="Tools" ID="ID_1882557975" CREATED="1600513774317" MODIFIED="1600612634581"><richcontent TYPE="NOTE">
@@ -3958,7 +3965,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Own your platform" ID="ID_761965967" CREATED="1600252379934" MODIFIED="1600611985915"><richcontent TYPE="NOTE">
@@ -4419,6 +4425,51 @@
 </html>
 </richcontent>
 </node>
+</node>
+<node TEXT="Julian Harty Talk" ID="ID_1258410193" CREATED="1601121554779" MODIFIED="1601121754143"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      # Back in 2012 Julian Harty presented...
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Open Sourcing Testing
+    </p>
+    <p>
+      - http://lets-test.com/?page_id=900#panel-1053
+    </p>
+    <p>
+      - http://lets-test.com/wp-content/uploads/2012/05/
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Open-Sourcing-Testing-for-Lets-Test-Final-Final-09-May-2012.pdf
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- [slides](http://lets-test.com/wp-content/uploads/2012/05/Open-Sourcing-Testing-for-Lets-Test-Final-Final-09-May-2012.pdf)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      And that's when I deliberately started open sourcing as much as possible.
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 <node TEXT="Processes" ID="ID_1182935345" CREATED="1599912672584" MODIFIED="1599912675072">
 <node TEXT="repurposing" FOLDED="true" ID="ID_807376671" CREATED="1599912677485" MODIFIED="1600607109053"><richcontent TYPE="NOTE">

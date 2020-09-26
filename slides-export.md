@@ -6,11 +6,12 @@ slidenumbers: true
 
 Open Quality Conference 2020
 
+- [github.com/eviltester/open-source-profile](https://github.com/eviltester/open-source-profile)
+
 Alan Richardson
 
 - [@EvilTester](https://twitter.com/eviltester)
 - [EvilTester.com](https://eviltester.com)
-- [compendiumdev.co.uk](https://compendiumdev.co.uk)
 - [digitalonlinetactics.com](https://talotics.com)
 
 ---
@@ -28,7 +29,7 @@ Alan Richardson
 
 ---
 
-# Results of 25 Years Open Sourcing
+# Results of 25+ Years Open Sourcing
 
 ---
 
@@ -351,7 +352,7 @@ Every day for a week:
 You've got to love the:
 
 - the output
-    - what you create and share share
+    - what you create and share
 - the process, the act of creation
 - the learning
     - improving the act of creation and sharing
@@ -732,7 +733,7 @@ These repos show various ways of building and hosting web sites.
 
 ---
 
-![fit(images/mixed-content-repo.gif)
+![fit](images/mixed-content-repo.gif)
 
 
 ---
@@ -742,7 +743,7 @@ These repos show various ways of building and hosting web sites.
 - Junit Examples
    - a minimal web site
        - eviltester.github.io/junitexamples
-   - [readme.md](https://github.com/eviltester/junitexamples/tree/master/src/test/java/compare4and5basics) files in the code
+   -  [readme.md](https://github.com/eviltester/junitexamples/tree/master/src/test/java/compare4and5basics) files in the code
    - links to videos on youtube
    - links to blog posts with more information
    - as well as code
@@ -767,10 +768,16 @@ These repos show various ways of building and hosting web sites.
    - normal use for code
 - Can be used to host JS and HTML Apps e.g.
    - code
-        - [github.com/eviltester/simpletodolist](https://github.com/eviltester/simpletodolist)
+        - github.com/eviltester/simpletodolist
    - App
-        - [eviltester.github.io/simpletodolist/todolists.html](https://eviltester.github.io/simpletodolist/todolists.html)
+        - eviltester.github.io/simpletodolist/todolists.htm
+
+---
+
+# Netlify
+
 - Also consider Netlify for JS and HTML app hosting
+- as well as static blog sites
 
 ---
 
@@ -833,7 +840,7 @@ Build project, run tests, when commit. Can be a full CI pipeline.
 
 ---
 
-## We can all Open Source
+# We can all Open Source
 
 >"The term open source refers to **something people can modify** and share because its **design is publicly accessible**."
 
@@ -841,7 +848,7 @@ Build project, run tests, when commit. Can be a full CI pipeline.
 
 ---
 
-## Alan Richardson - Partial Open Source Profile
+# Alan Richardson - Partial Open Source Profile
 
 - blogs: [eviltester.com](https://eviltester.com), [talotics.com](https://talotics.com)
 - social: [twitter.com/eviltester](https://twitter.com/eviltester), [linkedin.com/in/eviltester](https://uk.linkedin.com/in/eviltester), [instagram.com/eviltester](https://www.instagram.com/eviltester/)
@@ -853,9 +860,7 @@ Q&A
 
 ---
 
-# Extras
-
-All the stuff I couldn't fit into the talk.
+# Extras - All the stuff I couldn't fit into the talk.
 
 ---
 
@@ -1077,6 +1082,18 @@ Link from here to other platforms.
 - Generate slides as Markdown and Preview/Order in Marp
 - Publicly release repo when talk active
 - Aid discoverability through social sharing
+
+---
+
+# Back in 2012 Julian Harty presented...
+
+- Open Sourcing Testing
+- http://lets-test.com/?page_id=900#panel-1053
+- http://lets-test.com/wp-content/uploads/2012/05/
+    - Open-Sourcing-Testing-for-Lets-Test-Final-Final-09-May-2012.pdf
+    - [slides](http://lets-test.com/wp-content/uploads/2012/05/Open-Sourcing-Testing-for-Lets-Test-Final-Final-09-May-2012.pdf)
+
+And that's when I deliberately started open sourcing as much as possible.
 
 ---
 
