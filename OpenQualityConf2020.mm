@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="logistics" POSITION="right" ID="ID_1346335268" CREATED="1599906023969" MODIFIED="1599906027009">
 <edge COLOR="#ff0000"/>
 <node TEXT="about the conference" ID="ID_1244290428" CREATED="1599906028470" MODIFIED="1599913691005"><richcontent TYPE="NOTE">
@@ -308,7 +308,7 @@
 <node TEXT="slides" POSITION="right" ID="ID_1673688204" CREATED="1599906624789" MODIFIED="1600002275335">
 <edge COLOR="#0000ff"/>
 <node TEXT="Introduction" ID="ID_777187735" CREATED="1599906652936" MODIFIED="1599906657037">
-<node TEXT="Intro Slide" ID="ID_15817857" CREATED="1599906688262" MODIFIED="1601121820485"><richcontent TYPE="NOTE">
+<node TEXT="Intro Slide" ID="ID_15817857" CREATED="1599906688262" MODIFIED="1601122747773"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -358,7 +358,7 @@
       - [EvilTester.com](https://eviltester.com)
     </p>
     <p>
-      - [digitalonlinetactics.com](https://talotics.com)
+      - [talotics.com](https://talotics.com) (digitalonlinetactics.com)
     </p>
   </body>
 </html>
@@ -2135,7 +2135,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Chatterscan" ID="ID_1202660505" CREATED="1600514587915" MODIFIED="1600611294747"><richcontent TYPE="NOTE">
+<node TEXT="Chatterscan" ID="ID_1202660505" CREATED="1600514587915" MODIFIED="1601126680858"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -2161,7 +2161,7 @@
       
     </p>
     <p>
-      # Chatterscan,com
+      # Chatterscan.com
     </p>
     <p>
       
@@ -2181,11 +2181,9 @@
     <p>
       &#160;&#160;&#160;&#160;- [github.com/eviltester/chatterscan](https://github.com/eviltester/chatterscan)
     </p>
-    <p>
-      
-    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
@@ -3540,7 +3538,63 @@
 
 </richcontent>
 </node>
-<node TEXT="Extras" ID="ID_619590604" CREATED="1600599001362" MODIFIED="1601116253048"><richcontent TYPE="NOTE">
+</node>
+<node TEXT="objectives" POSITION="left" ID="ID_1038566243" CREATED="1600002277109" MODIFIED="1600002279872">
+<edge COLOR="#ff00ff"/>
+<node TEXT="reframe open source&#xa;to open it to everyone" ID="ID_345967979" CREATED="1600002280546" MODIFIED="1600002310674">
+<node TEXT="information" ID="ID_1688371824" CREATED="1600002293071" MODIFIED="1600002294848"/>
+<node TEXT="knowledge" ID="ID_1850812793" CREATED="1600002295700" MODIFIED="1600002297948"/>
+<node TEXT="experience" ID="ID_660712818" CREATED="1600002298524" MODIFIED="1600002301698"/>
+</node>
+<node TEXT="Descripe the tools and&#xa;resources available to allow&#xa;people to start free and quickly" ID="ID_979701321" CREATED="1600002320775" MODIFIED="1600002353563"/>
+<node TEXT="Show Examples in action" ID="ID_1932560180" CREATED="1600002354326" MODIFIED="1600002361138">
+<node TEXT="to add to swipe files" ID="ID_1098535417" CREATED="1600002361885" MODIFIED="1600002367624"/>
+<node TEXT="to learn from the source" ID="ID_733647674" CREATED="1600002368026" MODIFIED="1600002378000"/>
+<node TEXT="to show the possibilities" ID="ID_1463774903" CREATED="1600002378289" MODIFIED="1600002390325"/>
+</node>
+<node TEXT="Describe the psychology,&#xa;motivation and benefits&#xa;of sharing" ID="ID_809905770" CREATED="1600002406253" MODIFIED="1600002442252">
+<node TEXT="benefits" ID="ID_881329506" CREATED="1600002481514" MODIFIED="1600002484128">
+<node TEXT="skill improvements" ID="ID_1386625305" CREATED="1600002484776" MODIFIED="1600002488554"/>
+<node TEXT="increased profile" ID="ID_1651373968" CREATED="1600002489405" MODIFIED="1600002495678"/>
+</node>
+</node>
+<node TEXT="Provide lessons learned from experience" ID="ID_1648476385" CREATED="1600002449742" MODIFIED="1600002457314"/>
+<node TEXT="Encourage personal growth through sharing" ID="ID_1757317808" CREATED="1600002460867" MODIFIED="1600002479415"/>
+<node TEXT="Open Source This Presentation" ID="ID_1302234660" CREATED="1600002575079" MODIFIED="1600002581418"/>
+</node>
+<node TEXT="Todos:" POSITION="left" ID="ID_508596349" CREATED="1600003162732" MODIFIED="1600003167295">
+<edge COLOR="#00ffff"/>
+<node TEXT="[x] Create Private Github Repo" ID="ID_97036761" CREATED="1600004417417" MODIFIED="1600004497113"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://github.com/eviltester/open-source-profile
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="[ ] Make github Repo public" ID="ID_927656852" CREATED="1600004432971" MODIFIED="1600004443093"/>
+<node TEXT="[] add creative commons license" ID="ID_701985935" CREATED="1600004464585" MODIFIED="1600004476992"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span charset="utf-8" style="color: rgb(36, 41, 46); font-family: -apple-system, system-ui, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji; font-size: 14.4px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none"><font color="rgb(36, 41, 46)" face="-apple-system, system-ui, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji" size="14.4px">Creative Commons Attribution Share Alike 4.0</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Extras" POSITION="left" ID="ID_619590604" CREATED="1600599001362" MODIFIED="1601126740769"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -3560,7 +3614,7 @@
 </html>
 
 </richcontent>
-</node>
+<edge COLOR="#7c0000"/>
 <node TEXT="Tools" ID="ID_1882557975" CREATED="1600513774317" MODIFIED="1600612634581"><richcontent TYPE="NOTE">
 
 <html>
@@ -4923,61 +4977,6 @@
 </html>
 </richcontent>
 </node>
-</node>
-</node>
-<node TEXT="objectives" POSITION="left" ID="ID_1038566243" CREATED="1600002277109" MODIFIED="1600002279872">
-<edge COLOR="#ff00ff"/>
-<node TEXT="reframe open source&#xa;to open it to everyone" ID="ID_345967979" CREATED="1600002280546" MODIFIED="1600002310674">
-<node TEXT="information" ID="ID_1688371824" CREATED="1600002293071" MODIFIED="1600002294848"/>
-<node TEXT="knowledge" ID="ID_1850812793" CREATED="1600002295700" MODIFIED="1600002297948"/>
-<node TEXT="experience" ID="ID_660712818" CREATED="1600002298524" MODIFIED="1600002301698"/>
-</node>
-<node TEXT="Descripe the tools and&#xa;resources available to allow&#xa;people to start free and quickly" ID="ID_979701321" CREATED="1600002320775" MODIFIED="1600002353563"/>
-<node TEXT="Show Examples in action" ID="ID_1932560180" CREATED="1600002354326" MODIFIED="1600002361138">
-<node TEXT="to add to swipe files" ID="ID_1098535417" CREATED="1600002361885" MODIFIED="1600002367624"/>
-<node TEXT="to learn from the source" ID="ID_733647674" CREATED="1600002368026" MODIFIED="1600002378000"/>
-<node TEXT="to show the possibilities" ID="ID_1463774903" CREATED="1600002378289" MODIFIED="1600002390325"/>
-</node>
-<node TEXT="Describe the psychology,&#xa;motivation and benefits&#xa;of sharing" ID="ID_809905770" CREATED="1600002406253" MODIFIED="1600002442252">
-<node TEXT="benefits" ID="ID_881329506" CREATED="1600002481514" MODIFIED="1600002484128">
-<node TEXT="skill improvements" ID="ID_1386625305" CREATED="1600002484776" MODIFIED="1600002488554"/>
-<node TEXT="increased profile" ID="ID_1651373968" CREATED="1600002489405" MODIFIED="1600002495678"/>
-</node>
-</node>
-<node TEXT="Provide lessons learned from experience" ID="ID_1648476385" CREATED="1600002449742" MODIFIED="1600002457314"/>
-<node TEXT="Encourage personal growth through sharing" ID="ID_1757317808" CREATED="1600002460867" MODIFIED="1600002479415"/>
-<node TEXT="Open Source This Presentation" ID="ID_1302234660" CREATED="1600002575079" MODIFIED="1600002581418"/>
-</node>
-<node TEXT="Todos:" POSITION="left" ID="ID_508596349" CREATED="1600003162732" MODIFIED="1600003167295">
-<edge COLOR="#00ffff"/>
-<node TEXT="[x] Create Private Github Repo" ID="ID_97036761" CREATED="1600004417417" MODIFIED="1600004497113"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      https://github.com/eviltester/open-source-profile
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="[ ] Make github Repo public" ID="ID_927656852" CREATED="1600004432971" MODIFIED="1600004443093"/>
-<node TEXT="[] add creative commons license" ID="ID_701985935" CREATED="1600004464585" MODIFIED="1600004476992"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <span charset="utf-8" style="color: rgb(36, 41, 46); font-family: -apple-system, system-ui, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji; font-size: 14.4px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none"><font color="rgb(36, 41, 46)" face="-apple-system, system-ui, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji" size="14.4px">Creative Commons Attribution Share Alike 4.0</font></span>
-    </p>
-  </body>
-</html>
-</richcontent>
 </node>
 </node>
 </node>
